@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:leap2="http://terms.leapspecs.org#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:r="http://backend.userland.com/rss2" xmlns="http://purl.org/rss/1.0/"
+    xmlns:rss="http://purl.org/rss/1.0/" xmlns:vi="http://www.openlinksw.com/weblog/"
+    xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:a="http://www.w3.org/2005/Atom"
+    xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:sioc="http://rdfs.org/sioc/ns#"
+    xmlns:g="http://base.google.com/ns/1.0" xmlns:gd="http://schemas.google.com/g/2005"
+    xmlns:gb="http://www.openlinksw.com/schemas/google-base#"
+    xmlns:media="http://search.yahoo.com/mrss/" xmlns:gml="http://www.opengis.net/gml"
+    xmlns:georss="http://www.georss.org/georss" xmlns:gphoto="http://schemas.google.com/photos/2007"
+    xmlns:ff="http://api.friendfeed.com/2008/03" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:sqa="http://data.sqa.org.uk/">
+    <channel rdf:about="http://demo.mahara.org/user/paulastudent">
+        <link/>
+        <title>Mahara Leap2A Export for Paula Student, 2013/04/14 20:57</title>
+        <dc:creator>Paula Student &lt;student@nomail.com&gt;</dc:creator>
+        <foaf:mbox rdf:resource="mailto:student@nomail.com"/>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="portfolio:view22"/>
+                <rdf:li rdf:resource="portfolio:view23"/>
+                <rdf:li rdf:resource="portfolio:view26"/>
+                <rdf:li rdf:resource="portfolio:artefact84"/>
+                <rdf:li rdf:resource="portfolio:artefact217"/>
+                <rdf:li rdf:resource="portfolio:artefact218"/>
+                <rdf:li rdf:resource="portfolio:artefact220"/>
+                <rdf:li rdf:resource="portfolio:resumecomposite-220-child-4"/>
+                <rdf:li rdf:resource="portfolio:resumesibling-220-sibling-4-rel-supports"/>
+                <rdf:li rdf:resource="portfolio:resumesibling-220-sibling-4-rel-supported_by"/>
+                <rdf:li rdf:resource="portfolio:resumecomposite-220-child-3"/>
+                <rdf:li rdf:resource="portfolio:resumesibling-220-sibling-3-rel-supports"/>
+                <rdf:li rdf:resource="portfolio:resumesibling-220-sibling-3-rel-supported_by"/>
+                <rdf:li rdf:resource="portfolio:resumecomposite-220-child-5"/>
+                <rdf:li rdf:resource="portfolio:resumesibling-220-sibling-5-rel-supports"/>
+                <rdf:li rdf:resource="portfolio:resumesibling-220-sibling-5-rel-supported_by"/>
+                <rdf:li rdf:resource="portfolio:resumecomposite-220-child-6"/>
+                <rdf:li rdf:resource="portfolio:resumesibling-220-sibling-6-rel-supports"/>
+                <rdf:li rdf:resource="portfolio:resumesibling-220-sibling-6-rel-supported_by"/>
+                <rdf:li rdf:resource="portfolio:artefact221"/>
+                <rdf:li rdf:resource="portfolio:artefact222"/>
+                <rdf:li rdf:resource="portfolio:artefact223"/>
+                <rdf:li rdf:resource="portfolio:artefact224"/>
+                <rdf:li rdf:resource="portfolio:artefactinternal"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <rdf:Description rdf:about="http://demo.mahara.org/user/paulastudent">
+        <rdf:type rdf:resource="http://rdfs.org/sioc/ns#Thread"/>
+        <dc:description/>
+    </rdf:Description>
+    <item rdf:about="portfolio:view22">
+        <title>Profile View</title>
+        <dc:date>2011-01-21T15:47:23+13:00</dc:date>
+        <dc:description/>
+        <description> About Me This is the profile page for Paula Student My pages First steps in
+            Mahara template view for members of the institution "Mahara School" My groups Not in any
+            groups Résumé Interests Sport and hospitality Personal information Date of birth 20
+            April 1997 Place of birth Stirling Citizenship Scottish Gender Female Goals Academic
+            goals Higher National Sport and Hospitality Management Skills Personal skills Sport Work
+            skills Hospitality History Education history Start date End date Qualification
+            01/11/2008 30/07/2012 English National 4 (High School) at Stirling High School EN 4
+            01/11/2008 30/07/2012 Maths National 4 (High School) at Stirling High School MTH 4
+            01/11/2008 30/07/2012 Hospitality National 5 (High School) at Stirling High School HWB
+            4-3 01/11/2008 30/07/2012 Physical Education (High School) at Stirling High Schoo HWB
+            4-2 My friends Price Tutor Wall Maximum 1500 characters per post. You can format your
+            post using BBCode. Learn moreMake your post private No wall posts to display View whole
+            wall » </description>
+        <dc:source rdf:resource="portfolio:artefact219"/>
+        <dc:source rdf:resource="portfolio:artefact220"/>
+        <dc:source rdf:resource="portfolio:artefact221"/>
+        <dc:source rdf:resource="portfolio:artefact222"/>
+        <dc:source rdf:resource="portfolio:artefact223"/>
+        <dc:source rdf:resource="portfolio:artefact224"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Webpage">
+                <skos:prefLabel>Webpage</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:selection"/>
+    </item>
+    <item rdf:about="portfolio:view23">
+        <title>Dashboard View</title>
+        <dc:date>2011-01-21T15:47:23+13:00</dc:date>
+        <dc:description/>
+        <description> Latest Views Presentations over the years Kristina Hoeppner Updated 8 July
+            2012 1 2 3 GO! Kristina Hoeppner Updated 8 July 2012 (Daily) Blogs Kristina Hoeppner
+            Updated 8 July 2012 Work (and) interests Kristina Hoeppner Updated 8 July 2012 First
+            steps in Mahara template view for members of the institution "Mahara School" Paula
+            Student Created 21 January 2011 My pages First steps in Mahara template view for members
+            of the institution "Mahara School" Recent Activity Institution membership confirmation
+            You have been added as a member of Mahara School. Topics I'm Following No messages </description>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Webpage">
+                <skos:prefLabel>Webpage</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:selection"/>
+    </item>
+    <item rdf:about="portfolio:view26">
+        <title>First steps in Mahara</title>
+        <dc:date>2011-01-21T18:51:35+13:00</dc:date>
+        <dc:description/>
+        <description> My first steps in Mahara [Please provide your thoughts on your first steps in
+            Mahara. Just replace this text and put your own in.] Creative Commons License First
+            steps in Mahara by Paula Student is licensed under a Creative Commons Attribution-Share
+            Alike 3.0 Unported license. Permissions beyond the scope of this license may be
+            available from Paula Student. </description>
+        <dc:source rdf:resource="portfolio:artefact194"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Webpage">
+                <skos:prefLabel>Webpage</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:selection"/>
+    </item>
+    <item rdf:about="portfolio:artefact84">
+        <title>Paula Student's Blog</title>
+        <dc:date>2011-01-21T15:46:23+13:00</dc:date>
+        <dc:description/>
+        <description/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Blog">
+                <skos:prefLabel>Blog</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:selection"/>
+    </item>
+    <item rdf:about="portfolio:artefact217">
+        <title>images</title>
+        <dc:date>2012-04-23T15:00:47+12:00</dc:date>
+        <dc:description/>
+        <description>Image files</description>
+        <dc:source rdf:resource="portfolio:artefact86"/>
+        <dc:source rdf:resource="portfolio:artefact218"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Folder">
+                <skos:prefLabel>Folder</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:selection"/>
+    </item>
+    <item rdf:about="portfolio:artefact218">
+        <title>ja</title>
+        <dc:date>2013-04-14T20:30:42+12:00</dc:date>
+        <dc:description/>
+        <description/>
+        <dc:source rdf:resource="portfolio:artefact217"/>
+        <dc:source rdf:resource="portfolio:artefactinternal"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Offline">
+                <skos:prefLabel>Offline</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:resource"/>
+    </item>
+    <item rdf:about="portfolio:artefact220">
+        <title>Education history</title>
+        <dc:date>2013-04-14T20:39:34+12:00</dc:date>
+        <dc:description/>
+        <description/>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-4"/>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-3"/>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-5"/>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-6"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Grouping">
+                <skos:prefLabel>Grouping</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:selection"/>
+    </item>
+    <item rdf:about="portfolio:resumecomposite-220-child-4">
+        <title>Maths National 4</title>
+        <dc:description/>
+        <description>MTH 4</description>
+        <dc:source rdf:resource="portfolio:artefact220"/>
+        <dc:source rdf:resource="portfolio:resumesibling-220-sibling-4-rel-supports"/>
+        <dc:source rdf:resource="portfolio:resumesibling-220-sibling-4-rel-supported_by"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Education">
+                <skos:prefLabel>Education</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:activity"/>
+    </item>
+    <item rdf:about="portfolio:resumesibling-220-sibling-4-rel-supports">
+        <title>Stirling High School</title>
+        <dc:description/>
+        <description/>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-4"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:organization"
+        />
+    </item>
+    <item rdf:about="portfolio:resumesibling-220-sibling-4-rel-supported_by">
+        <title>High School</title>
+        <dc:description/>
+        <description>Maths National 4</description>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-4"/>
+        <sqa:level>4</sqa:level>
+        <sqa:nsubject>Mathematics</sqa:nsubject>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:achievement"/>
+    </item>
+    <item rdf:about="portfolio:resumecomposite-220-child-3">
+        <title>English National 4</title>
+        <dc:description/>
+        <description>EN 4</description>
+        <dc:source rdf:resource="portfolio:artefact220"/>
+        <dc:source rdf:resource="portfolio:resumesibling-220-sibling-3-rel-supports"/>
+        <dc:source rdf:resource="portfolio:resumesibling-220-sibling-3-rel-supported_by"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Education">
+                <skos:prefLabel>Education</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:activity"/>
+    </item>
+    <item rdf:about="portfolio:resumesibling-220-sibling-3-rel-supports">
+        <title>Stirling High School</title>
+        <dc:description/>
+        <description/>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-3"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:organization"
+        />
+    </item>
+    <item rdf:about="portfolio:resumesibling-220-sibling-3-rel-supported_by">
+        <title>High School</title>
+        <dc:description/>
+        <description>English National 4</description>
+        <sqa:level>4</sqa:level>
+        <sqa:nsubject>English</sqa:nsubject>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-3"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:achievement"/>
+    </item>
+    <item rdf:about="portfolio:resumecomposite-220-child-5">
+        <title>Hospitality National 5</title>
+        <dc:description/>
+        <description>HWB 4-3</description>
+        <dc:source rdf:resource="portfolio:artefact220"/>
+        <dc:source rdf:resource="portfolio:resumesibling-220-sibling-5-rel-supports"/>
+        <dc:source rdf:resource="portfolio:resumesibling-220-sibling-5-rel-supported_by"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Education">
+                <skos:prefLabel>Education</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:activity"/>
+    </item>
+    <item rdf:about="portfolio:resumesibling-220-sibling-5-rel-supports">
+        <title>Stirling High School</title>
+        <dc:description/>
+        <description/>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-5"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:organization"
+        />
+    </item>
+    <item rdf:about="portfolio:resumesibling-220-sibling-5-rel-supported_by">
+        <title>High School</title>
+        <dc:description/>
+        <description>Hospitality National 5</description>
+        <sqa:level>5</sqa:level>
+        <sqa:nsubject>Hospitality</sqa:nsubject>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-5"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:achievement"/>
+    </item>
+    <item rdf:about="portfolio:resumecomposite-220-child-6">
+        <title>Physical Education</title>
+        <dc:description/>
+        <description>HWB 4-2</description>
+        <dc:source rdf:resource="portfolio:artefact220"/>
+        <dc:source rdf:resource="portfolio:resumesibling-220-sibling-6-rel-supports"/>
+        <dc:source rdf:resource="portfolio:resumesibling-220-sibling-6-rel-supported_by"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Education">
+                <skos:prefLabel>Education</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:activity"/>
+    </item>
+    <item rdf:about="portfolio:resumesibling-220-sibling-6-rel-supports">
+        <title>Stirling High Schoo</title>
+        <dc:description/>
+        <description/>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-6"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:organization"
+        />
+    </item>
+    <item rdf:about="portfolio:resumesibling-220-sibling-6-rel-supported_by">
+        <title>High School</title>
+        <dc:description/>
+        <description>Physical Education</description>
+        <sqa:level>5</sqa:level>
+        <sqa:nsubject>Physical education</sqa:nsubject>
+        <dc:source rdf:resource="portfolio:resumecomposite-220-child-6"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:achievement"/>
+    </item>
+    <item rdf:about="portfolio:artefact221">
+        <title>Interests</title>
+        <dc:date>2013-04-14T20:51:59+12:00</dc:date>
+        <dc:description/>
+        <description>Sport and hospitality</description>
+        <dc:source rdf:resource="portfolio:view22"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:entry"/>
+    </item>
+    <item rdf:about="portfolio:artefact222">
+        <title>Personal skills</title>
+        <dc:date>2013-04-14T20:52:23+12:00</dc:date>
+        <dc:description/>
+        <description>Sport</description>
+        <dc:source rdf:resource="portfolio:view22"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:ability"/>
+    </item>
+    <item rdf:about="portfolio:artefact223">
+        <title>Work skills</title>
+        <dc:date>2013-04-14T20:53:05+12:00</dc:date>
+        <dc:description/>
+        <description>Hospitality</description>
+        <dc:source rdf:resource="portfolio:view22"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:ability"/>
+    </item>
+    <item rdf:about="portfolio:artefact224">
+        <title>Academic goals</title>
+        <dc:date>2013-04-14T20:55:34+12:00</dc:date>
+        <dc:description/>
+        <description>Higher National Sport and Hospitality Management</description>
+        <sqa:level>8</sqa:level>
+        <sqa:nsubject>Higher National Sport and Hospitality Management</sqa:nsubject>
+        <dc:source rdf:resource="portfolio:view22"/>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:entry"/>
+    </item>
+    <item rdf:about="portfolio:artefactinternal">
+        <title>Paula Student</title>
+        <dc:description/>
+        <description/>
+        <dc:source rdf:resource="portfolio:artefact86"/>
+        <dc:source rdf:resource="portfolio:artefact218"/>
+        <sioc:topic>
+            <skos:Concept rdf:about="http://demo.mahara.org/user/paulastudent#Self">
+                <skos:prefLabel>Self</skos:prefLabel>
+            </skos:Concept>
+        </sioc:topic>
+        <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:person"/>
+    </item>
+</rdf:RDF>

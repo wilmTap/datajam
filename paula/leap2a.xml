@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:leap2="http://terms.leapspecs.org/"
+    xmlns:categories="http://wiki.leapspecs.org/2A/categories/"
+    xmlns:portfolio="http://demo.mahara.org/export/leap/7/1365929871/"
+    xmlns:mahara="http://wiki.mahara.org/Developer_Area/Import%2F%2FExport/LEAP_Extensions#"
+>
+    <leap2:version>http://www.leapspecs.org/2010-07/2A/</leap2:version>
+    <id>http://demo.mahara.org/export/7/1365929871</id>
+    <title>Mahara Leap2A Export for Paula Student, 2013/04/14 20:57</title>
+    <updated>2013-04-14T20:57:51+12:00</updated>
+    <generator uri="http://mahara.org/" version="2008122400">Mahara</generator>
+    <author>
+        <name>Paula Student</name>
+        <email>student@nomail.com</email>
+        <uri>portfolio:artefactinternal</uri>
+    </author>
+
+    <entry>
+        <title>Profile View</title>
+        <id>portfolio:view22</id>
+
+        <updated>2013-04-14T20:56:23+12:00</updated>
+        <published>2011-01-21T15:47:23+13:00</published>
+        <summary>Your profile view is what others see when they click on your name or profile icon</summary>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_column_1" class="column columns2" style="width:48%;">
+    <div class="column-content">
+        <div class="blockinstance cb bt-profileinfo" id="user_blockinstance_112">
+        <div class="blockinstance-header">
+            <h4>About Me</h4>
+        </div>
+        <div class="blockinstance-content">
+            
+<p>This is the profile page for Paula Student</p>
+
+
+
+        </div>
+    </div>
+    <div class="blockinstance cb bt-myviews" id="user_blockinstance_108">
+        <div class="blockinstance-header">
+            <h4>My pages</h4>
+        </div>
+        <div class="blockinstance-content">
+                <table id="user_userviewstable"><tr><td class="r0">
+                <h4><a href="http://demo.mahara.org/view/view.php?id=26">First steps in Mahara</a></h4>
+                                  <div class="details">template view for members of the institution "Mahara School"</div>
+                
+                
+            </td>
+        </tr></table></div>
+    </div>
+    <div class="blockinstance cb bt-mygroups" id="user_blockinstance_109">
+        <div class="blockinstance-header">
+            <h4>My groups</h4>
+        </div>
+        <div class="blockinstance-content">
+                Not in any groups
+
+
+        </div>
+    </div>
+    <div class="blockinstance cb bt-entireresume" id="user_blockinstance_191">
+        <div class="blockinstance-header">
+            <h4>Résumé</h4>
+        </div>
+        <div class="blockinstance-content">
+            
+
+<h3>Interests</h3>
+<p>Sport and hospitality</p>
+
+
+
+<h3>Personal information</h3>
+<table class="resumepersonalinfo"><tr><th>Date of birth</th>
+        <td>20 April 1997</td>
+    </tr><tr><th>Place of birth</th>
+        <td>Stirling</td>
+    </tr><tr><th>Citizenship</th>
+        <td>Scottish</td>
+    </tr><tr><th>Gender</th>
+        <td>Female</td>
+    </tr></table><h2>Goals</h2>
+
+
+
+<h3>Academic goals</h3>
+<div class="data-table-cell-content"><span>Higher National Sport and Hospitality Management</span></div>
+
+
+
+<h2>Skills</h2>
+
+<h3>Personal skills</h3>
+<p>Sport</p>
+
+
+
+<h3>Work skills</h3>
+<p>Hospitality</p>
+
+<h2>History</h2>
+
+
+
+<h3>Education history</h3>
+<table id="user_educationhistorylist_d2a6" class="tablerenderer resumefive resumecomposite fullwidth"><thead><tr><th class="resumedate">Start date</th>
+            <th class="resumedate">End date</th>
+            <th>Qualification</th>
+            
+        </tr></thead><tbody><tr class="r0 expandable-head"><td class="toggle">01/11/2008</td>
+            <td>30/07/2012</td>
+            <td>English National 4 (High School) at Stirling High School</td>
+            
+        </tr><tr class="r0 expandable-body"><td colspan="3">EN 4</td>
+            
+        </tr><tr class="r1 expandable-head"><td class="toggle">01/11/2008</td>
+            <td>30/07/2012</td>
+            <td>Maths National 4 (High School) at Stirling High School</td>
+            
+        </tr><tr class="r1 expandable-body"><td colspan="3">MTH 4</td>
+            
+        </tr><tr class="r0 expandable-head"><td class="toggle">01/11/2008</td>
+            <td>30/07/2012</td>
+            <td>Hospitality National 5 (High School) at Stirling High School</td>
+            
+        </tr><tr class="r0 expandable-body"><td colspan="3">HWB 4-3</td>
+            
+        </tr><tr class="r1 expandable-head"><td class="toggle">01/11/2008</td>
+            <td>30/07/2012</td>
+            <td>Physical Education (High School) at Stirling High Schoo</td>
+            
+        </tr><tr class="r1 expandable-body"><td colspan="3">HWB 4-2</td>
+            
+        </tr></tbody></table></div>
+    </div>
+
+    </div>
+</div>
+<div id="user_column_2" class="column columns2" style="width:48%;">
+    <div class="column-content">
+        <div class="blockinstance cb bt-myfriends" id="user_blockinstance_110">
+        <div class="blockinstance-header">
+            <h4>My friends</h4>
+        </div>
+        <div class="blockinstance-content">
+            <div class="friends">
+    <div id="user_userfriendstable" class="center fullwidth">
+                              <div class="d0 friendcell">
+                <a href="http://demo.mahara.org/user/view.php?id=3">
+                   <img src="http://demo.mahara.org/thumb.php?type=profileiconbyid&amp;maxwidth=60&amp;maxheight=60&amp;id=64" alt="" /></a>
+                <div><a href="http://demo.mahara.org/user/view.php?id=3">Price Tutor</a></div>
+            </div>
+        
+    
+    <div class="cl"></div>
+
+    </div>
+	<div id="user_myfriends_page_container" class="hidden"></div>
+</div>
+
+        </div>
+    </div>
+    <div class="blockinstance cb bt-wall" id="user_blockinstance_111">
+        <div class="blockinstance-header">
+            <h4>Wall</h4>
+        </div>
+        <div class="blockinstance-content">
+            <div id="user_wall"><div class="description">Maximum 1500 characters per post. You can format your post using BBCode. <a href="">Learn more</a></div><div></div><div class="makeprivate">Make your post private </div><div></div></div><div class="wall">
+            <p class="message">No wall posts to display</p>
+    
+    
+</div>
+    <div class="morelinkwrap"><a class="morelink" href="http://demo.mahara.org/blocktype/wall/wall.php?id=111">View whole wall »</a></div>
+
+
+        </div>
+    </div>
+
+    </div>
+</div>
+</div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact219"/>
+        <link rel="leap2:has_part" href="portfolio:artefact220"/>
+        <link rel="leap2:has_part" href="portfolio:artefact221"/>
+        <link rel="leap2:has_part" href="portfolio:artefact222"/>
+        <link rel="leap2:has_part" href="portfolio:artefact223"/>
+        <link rel="leap2:has_part" href="portfolio:artefact224"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:layout="50,50" mahara:type="profile" mahara:ownerformat="6">
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="profileinfo" mahara:blocktitle="About Me">
+                    <mahara:fields>[[]]</mahara:fields>
+                    <mahara:introtext>[&quot;This is the profile page for Paula Student&quot;]</mahara:introtext>
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="myviews" mahara:blocktitle="My Views">
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="mygroups" mahara:blocktitle="My Groups">
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="entireresume" mahara:blocktitle="Résumé">
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="myfriends" mahara:blocktitle="My Friends">
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="wall" mahara:blocktitle="Wall">
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Dashboard View</title>
+        <id>portfolio:view23</id>
+
+        <updated>2011-01-21T15:47:23+13:00</updated>
+        <published>2011-01-21T15:47:23+13:00</published>
+        <summary>Your dashboard view is what you see on the homepage when you first log in. Only you have access to it</summary>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_column_1" class="column columns2" style="width:48%;">
+    <div class="column-content">
+        <div class="blockinstance cb bt-newviews" id="user_blockinstance_113">
+        <div class="blockinstance-header">
+            <h4>Latest Views</h4>
+        </div>
+        <div class="blockinstance-content">
+              <table class="viewlist"><tr class="r0"><td><h4><a href="http://demo.mahara.org/view/view.php?id=34">Presentations over the years</a></h4>
+              <div class="details"></div></td>
+                        <td class="right">
+                                  <a href="http://demo.mahara.org/user/view.php?id=8" class="s">Kristina Hoeppner</a>
+                
+             	<div class="postedon nowrap">
+                  Updated
+                   8 July 2012</div>
+            </td>
+            
+        </tr><tr class="r1"><td><h4><a href="http://demo.mahara.org/view/view.php?id=35">1 2 3 GO!</a></h4>
+              <div class="details"></div></td>
+                        <td class="right">
+                                  <a href="http://demo.mahara.org/user/view.php?id=8" class="s">Kristina Hoeppner</a>
+                
+             	<div class="postedon nowrap">
+                  Updated
+                   8 July 2012</div>
+            </td>
+            
+        </tr><tr class="r0"><td><h4><a href="http://demo.mahara.org/view/view.php?id=36">(Daily) Blogs</a></h4>
+              <div class="details"></div></td>
+                        <td class="right">
+                                  <a href="http://demo.mahara.org/user/view.php?id=8" class="s">Kristina Hoeppner</a>
+                
+             	<div class="postedon nowrap">
+                  Updated
+                   8 July 2012</div>
+            </td>
+            
+        </tr><tr class="r1"><td><h4><a href="http://demo.mahara.org/view/view.php?id=38">Work (and) interests</a></h4>
+              <div class="details"></div></td>
+                        <td class="right">
+                                  <a href="http://demo.mahara.org/user/view.php?id=8" class="s">Kristina Hoeppner</a>
+                
+             	<div class="postedon nowrap">
+                  Updated
+                   8 July 2012</div>
+            </td>
+            
+        </tr><tr class="r0"><td><h4><a href="http://demo.mahara.org/view/view.php?id=26">First steps in Mahara</a></h4>
+              <div class="details">template view for members of the institution "Mahara School"</div></td>
+                        <td class="right">
+                                  <a href="http://demo.mahara.org/user/view.php?id=7" class="s">Paula Student</a>
+                
+             	<div class="postedon nowrap">
+                  Created
+                  21 January 2011</div>
+            </td>
+            
+        </tr></table></div>
+    </div>
+    <div class="blockinstance cb bt-myviews" id="user_blockinstance_114">
+        <div class="blockinstance-header">
+            <h4>My pages</h4>
+        </div>
+        <div class="blockinstance-content">
+                <table id="user_userviewstable"><tr><td class="r0">
+                <h4><a href="http://demo.mahara.org/view/view.php?id=26">First steps in Mahara</a></h4>
+                                  <div class="details">template view for members of the institution "Mahara School"</div>
+                
+                
+            </td>
+        </tr></table></div>
+    </div>
+
+    </div>
+</div>
+<div id="user_column_2" class="column columns2" style="width:48%;">
+    <div class="column-content">
+        <div class="blockinstance cb bt-inbox" id="user_blockinstance_115">
+        <div class="blockinstance-header">
+            <h4>Recent Activity</h4>
+        </div>
+        <div class="blockinstance-content">
+            <table id="user_inboxblock" class="fullwidth fixwidth"><tr class="r0"><td class="icon-container">
+          <img src="http://demo.mahara.org/theme/raw/static/images/maharamessage.gif" alt="System message" /></td>
+    <td>
+        <a href="http://demo.mahara.org/account/activity" class="inbox-showmessage unread">Institution membership confirmation</a>
+      <div class="inbox-message hidden messagebody messagebody-maharamessage" id="user_inbox-message-5">You have been added as a member of Mahara School.
+      
+      </div>
+  
+    </td>
+</tr></table></div>
+    </div>
+    <div class="blockinstance cb bt-inbox" id="user_blockinstance_116">
+        <div class="blockinstance-header">
+            <h4>Topics I'm Following</h4>
+        </div>
+        <div class="blockinstance-content">
+            No messages
+
+
+        </div>
+    </div>
+
+    </div>
+</div>
+</div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:layout="50,50" mahara:type="dashboard" mahara:ownerformat="6">
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="newviews" mahara:blocktitle="Latest Views">
+                    <mahara:limit>[5]</mahara:limit>
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="myviews" mahara:blocktitle="My Views">
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="inbox" mahara:blocktitle="Recent Activity">
+                    <mahara:feedback>[true]</mahara:feedback>
+                    <mahara:groupmessage>[true]</mahara:groupmessage>
+                    <mahara:institutionmessage>[true]</mahara:institutionmessage>
+                    <mahara:maharamessage>[true]</mahara:maharamessage>
+                    <mahara:usermessage>[true]</mahara:usermessage>
+                    <mahara:viewaccess>[true]</mahara:viewaccess>
+                    <mahara:watchlist>[true]</mahara:watchlist>
+                    <mahara:maxitems>[&quot;5&quot;]</mahara:maxitems>
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="inbox" mahara:blocktitle="Topics I&#039;m Following">
+                    <mahara:newpost>[true]</mahara:newpost>
+                    <mahara:maxitems>[&quot;5&quot;]</mahara:maxitems>
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>First steps in Mahara</title>
+        <id>portfolio:view26</id>
+
+        <updated>2011-01-21T18:51:35+13:00</updated>
+        <published>2011-01-21T18:51:35+13:00</published>
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>template view for members of the institution "Mahara School"</p></div></div></summary>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_column_1" class="column columns2" style="width:65%;">
+    <div class="column-content">
+        <div class="blockinstance cb bt-textbox" id="user_blockinstance_123">
+        <div class="blockinstance-header">
+            <h4><a rel="leap2:has_part" href="portfolio:artefact194" title="Click for more information and to place feedback.">My first steps in Mahara</a></h4>
+        </div>
+        <div class="blockinstance-content">
+            <p>[Please provide your thoughts on your first steps in Mahara. Just replace this text and put your own in.]</p>
+
+
+
+        </div>
+    </div>
+
+    </div>
+</div>
+<div id="user_column_2" class="column columns2" style="width:31%;">
+    <div class="column-content">
+        <div class="blockinstance cb bt-creativecommons" id="user_blockinstance_124">
+        <div class="blockinstance-header">
+            <h4>Creative Commons License</h4>
+        </div>
+        <div class="blockinstance-content">
+            <div class="license">
+    <a class="licenseicon" href="http://creativecommons.org/licenses/by-sa/3.0/">
+    <img alt="Creative Commons license" style="border-width:0;" src="http://demo.mahara.org/blocktype/creativecommons/theme/raw/static/images/by-sa-3_0.png" /></a>
+
+    <div class="licensedesc">
+        <p><span><strong>First steps in Mahara</strong></span> by <a href="http://demo.mahara.org/user/view.php?id=7">Paula Student</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported</a> license.</p>
+        <p>Permissions beyond the scope of this license may be available from <a href="http://demo.mahara.org/user/view.php?id=7">Paula Student</a>.</p>
+    </div>
+
+    <div class="cb"></div>
+</div>
+
+        </div>
+    </div>
+
+    </div>
+</div>
+</div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact194"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:layout="67,33" mahara:type="portfolio" mahara:ownerformat="6">
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="textbox" mahara:blocktitle="My first steps in Mahara">
+                    <mahara:artefactid>[&quot;portfolio:artefact194&quot;]</mahara:artefactid>
+                    <mahara:text>[&quot;&lt;p&gt;[Please provide your thoughts on your first steps in Mahara. Just replace this text and put your own in.]&lt;\/p&gt;&quot;]</mahara:text>
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="creativecommons" mahara:blocktitle="Creative Commons License">
+                    <mahara:license>[&quot;by-sa&quot;]</mahara:license>
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Paula Student&#039;s Blog</title>
+        <id>portfolio:artefact84</id>
+
+        <updated>2011-01-21T15:46:23+13:00</updated>
+        <published>2011-01-21T15:46:23+13:00</published>
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+        <mahara:artefactplugin mahara:type="blog" mahara:plugin="blog"/>
+
+
+        <category term="Blog" scheme="categories:selection_type#"/>
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>images</title>
+        <id>portfolio:artefact217</id>
+
+        <updated>2012-04-23T15:00:47+12:00</updated>
+        <published>2012-04-23T15:00:47+12:00</published>
+
+        <content>Image files</content>
+        <rdf:type rdf:resource="leap2:selection"/>
+        <mahara:artefactplugin mahara:type="folder" mahara:plugin="file"/>
+        <link rel="leap2:has_part" href="portfolio:artefact86"/>
+        <link rel="leap2:has_part" href="portfolio:artefact218"/>
+
+
+        <category term="Folder" scheme="categories:selection_type#"/>
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>ja</title>
+        <id>portfolio:artefact218</id>
+
+        <updated>2013-04-14T20:30:42+12:00</updated>
+        <published>2013-04-14T20:30:42+12:00</published>
+        <summary type="">Uploaded profile picture</summary>
+        <content></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="profileicon" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/jpeg" href="files/0-ja"/>
+        <link rel="leap2:is_part_of" href="portfolio:artefact217"/>
+        <link rel="related" href="portfolio:artefactinternal"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Education history</title>
+        <id>portfolio:artefact220</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+        <published>2013-04-14T20:39:34+12:00</published>
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+        <mahara:artefactplugin mahara:type="educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:has_part" href="portfolio:resumecomposite-220-child-4" leap2:display_order="2"/>
+        <link rel="leap2:has_part" href="portfolio:resumecomposite-220-child-3" leap2:display_order="1"/>
+        <link rel="leap2:has_part" href="portfolio:resumecomposite-220-child-5" leap2:display_order="3"/>
+        <link rel="leap2:has_part" href="portfolio:resumecomposite-220-child-6" leap2:display_order="4"/>
+
+
+        <category term="Grouping" scheme="categories:selection_type#"/>
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Maths National 4</title>
+        <id>portfolio:resumecomposite-220-child-4</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content>MTH 4</content>
+        <rdf:type rdf:resource="leap2:activity"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:artefact220" leap2:display_order="2"/>
+        <link rel="leap2:supported_by" href="portfolio:resumesibling-220-sibling-4-rel-supports"/>
+        <link rel="leap2:supports" href="portfolio:resumesibling-220-sibling-4-rel-supported_by"/>
+
+
+        <category term="Education" scheme="categories:life_area#"/>
+
+
+
+
+
+
+        <leap2:date leap2:point="start" leap2:label="01/11/2008"></leap2:date>
+
+        <leap2:date leap2:point="end" leap2:label="30/07/2012"></leap2:date>
+
+    </entry>
+
+    <entry>
+        <title>Stirling High School</title>
+        <id>portfolio:resumesibling-220-sibling-4-rel-supports</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:organization"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supports" href="portfolio:resumecomposite-220-child-4"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>High School</title>
+        <id>portfolio:resumesibling-220-sibling-4-rel-supported_by</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content>Maths National 4</content>
+        <rdf:type rdf:resource="leap2:achievement"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supported_by" href="portfolio:resumecomposite-220-child-4"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>English National 4</title>
+        <id>portfolio:resumecomposite-220-child-3</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content>EN 4</content>
+        <rdf:type rdf:resource="leap2:activity"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:artefact220" leap2:display_order="1"/>
+        <link rel="leap2:supported_by" href="portfolio:resumesibling-220-sibling-3-rel-supports"/>
+        <link rel="leap2:supports" href="portfolio:resumesibling-220-sibling-3-rel-supported_by"/>
+
+
+        <category term="Education" scheme="categories:life_area#"/>
+
+
+
+
+
+
+        <leap2:date leap2:point="start" leap2:label="01/11/2008"></leap2:date>
+
+        <leap2:date leap2:point="end" leap2:label="30/07/2012"></leap2:date>
+
+    </entry>
+
+    <entry>
+        <title>Stirling High School</title>
+        <id>portfolio:resumesibling-220-sibling-3-rel-supports</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:organization"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supports" href="portfolio:resumecomposite-220-child-3"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>High School</title>
+        <id>portfolio:resumesibling-220-sibling-3-rel-supported_by</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content>English National 4</content>
+        <rdf:type rdf:resource="leap2:achievement"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supported_by" href="portfolio:resumecomposite-220-child-3"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>Hospitality National 5</title>
+        <id>portfolio:resumecomposite-220-child-5</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content>HWB 4-3</content>
+        <rdf:type rdf:resource="leap2:activity"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:artefact220" leap2:display_order="3"/>
+        <link rel="leap2:supported_by" href="portfolio:resumesibling-220-sibling-5-rel-supports"/>
+        <link rel="leap2:supports" href="portfolio:resumesibling-220-sibling-5-rel-supported_by"/>
+
+
+        <category term="Education" scheme="categories:life_area#"/>
+
+
+
+
+
+
+        <leap2:date leap2:point="start" leap2:label="01/11/2008"></leap2:date>
+
+        <leap2:date leap2:point="end" leap2:label="30/07/2012"></leap2:date>
+
+    </entry>
+
+    <entry>
+        <title>Stirling High School</title>
+        <id>portfolio:resumesibling-220-sibling-5-rel-supports</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:organization"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supports" href="portfolio:resumecomposite-220-child-5"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>High School</title>
+        <id>portfolio:resumesibling-220-sibling-5-rel-supported_by</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content>Hospitality National 5</content>
+        <rdf:type rdf:resource="leap2:achievement"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supported_by" href="portfolio:resumecomposite-220-child-5"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>Physical Education</title>
+        <id>portfolio:resumecomposite-220-child-6</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content>HWB 4-2</content>
+        <rdf:type rdf:resource="leap2:activity"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:artefact220" leap2:display_order="4"/>
+        <link rel="leap2:supported_by" href="portfolio:resumesibling-220-sibling-6-rel-supports"/>
+        <link rel="leap2:supports" href="portfolio:resumesibling-220-sibling-6-rel-supported_by"/>
+
+
+        <category term="Education" scheme="categories:life_area#"/>
+
+
+
+
+
+
+        <leap2:date leap2:point="start" leap2:label="01/11/2008"></leap2:date>
+
+        <leap2:date leap2:point="end" leap2:label="30/07/2012"></leap2:date>
+
+    </entry>
+
+    <entry>
+        <title>Stirling High Schoo</title>
+        <id>portfolio:resumesibling-220-sibling-6-rel-supports</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:organization"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supports" href="portfolio:resumecomposite-220-child-6"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>High School</title>
+        <id>portfolio:resumesibling-220-sibling-6-rel-supported_by</id>
+
+        <updated>2013-04-14T20:51:44+12:00</updated>
+
+
+        <content>Physical Education</content>
+        <rdf:type rdf:resource="leap2:achievement"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supported_by" href="portfolio:resumecomposite-220-child-6"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>Interests</title>
+        <id>portfolio:artefact221</id>
+
+        <updated>2013-04-14T20:52:14+12:00</updated>
+        <published>2013-04-14T20:51:59+12:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>Sport and hospitality</p></div></div></content>
+        <rdf:type rdf:resource="leap2:entry"/>
+        <mahara:artefactplugin mahara:type="interest" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:view22"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Personal skills</title>
+        <id>portfolio:artefact222</id>
+
+        <updated>2013-04-14T20:52:23+12:00</updated>
+        <published>2013-04-14T20:52:23+12:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>Sport</p></div></div></content>
+        <rdf:type rdf:resource="leap2:ability"/>
+        <mahara:artefactplugin mahara:type="personalskill" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:view22"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Work skills</title>
+        <id>portfolio:artefact223</id>
+
+        <updated>2013-04-14T20:53:05+12:00</updated>
+        <published>2013-04-14T20:53:05+12:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>Hospitality</p></div></div></content>
+        <rdf:type rdf:resource="leap2:ability"/>
+        <mahara:artefactplugin mahara:type="workskill" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:view22"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Academic goals</title>
+        <id>portfolio:artefact224</id>
+
+        <updated>2013-04-14T20:55:34+12:00</updated>
+        <published>2013-04-14T20:55:34+12:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div class="data-table-cell-content"><span>Higher National Sport and Hospitality Management</span></div></div></div></content>
+        <rdf:type rdf:resource="leap2:entry"/>
+        <mahara:artefactplugin mahara:type="academicgoal" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:view22"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Paula Student</title>
+        <id>portfolio:artefactinternal</id>
+
+        <updated>2012-07-08T00:16:29+12:00</updated>
+
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:person"/>
+        <mahara:artefactplugin mahara:type="internal" mahara:plugin="internal"/>
+        <link rel="related" href="portfolio:artefact86"/>
+        <link rel="related" href="portfolio:artefact218"/>
+
+
+        <category term="Self" scheme="categories:person_type#"/>
+
+
+
+
+
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="email"
+            leap2:field="email"
+
+            leap2:label="Email address"
+
+        >student@nomail.com</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="firstname"
+            leap2:field="legal_given_name"
+
+            leap2:label="First name"
+
+        >Paula</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="lastname"
+            leap2:field="legal_family_name"
+
+            leap2:label="Last name"
+
+        >Student</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="resume"
+            mahara:artefacttype="personalinformation/dateofbirth"
+            leap2:field="dob"
+
+            leap2:label="Date of birth"
+
+        >1997-04-20T00:00:00+12:00</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="resume"
+            mahara:artefacttype="personalinformation/placeofbirth"
+            leap2:field="other" mahara:field="placeofbirth"
+
+            leap2:label="Place of birth"
+
+        >Stirling</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="resume"
+            mahara:artefacttype="personalinformation/citizenship"
+            leap2:field="other" mahara:field="citizenship"
+
+            leap2:label="Citizenship"
+
+        >Scottish</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="resume"
+            mahara:artefacttype="personalinformation/gender"
+            leap2:field="gender"
+
+            leap2:label="Gender"
+
+        >2</leap2:persondata>
+
+
+    </entry>
+
+</feed>
