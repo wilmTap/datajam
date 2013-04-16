@@ -1,0 +1,892 @@
+[
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://localhost:3333/",
+      "prefixes": [
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "sqa",
+          "uri": "http://data.sqa.org.uk/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "rdfTypes": [],
+          "links": []
+        }
+      ]
+    }
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://localhost:3333/",
+      "prefixes": [
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "sqa",
+          "uri": "http://data.sqa.org.uk/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "rdfTypes": [],
+          "links": []
+        }
+      ]
+    }
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://localhost:3333/",
+      "prefixes": [
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "sqa",
+          "uri": "http://data.sqa.org.uk/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "rdfTypes": [],
+          "links": []
+        }
+      ]
+    }
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://127.0.0.1:3333/",
+      "prefixes": [
+        {
+          "name": "dbpr",
+          "uri": "http://dbpedia.org/resource/"
+        },
+        {
+          "name": "dc",
+          "uri": "http://purl.org/dc/elements/1.1/"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "sqa",
+          "uri": "http://data.sqa.org.uk/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "rdfTypes": [
+            {
+              "uri": "http://dbpedia.org/resource/Course",
+              "curie": "dbpr:Course"
+            }
+          ],
+          "links": [
+            {
+              "uri": "http://data.sqa.org.uk/id",
+              "curie": "sqa:id",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "course_id"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/college",
+              "curie": "sqa:college",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "crb"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/owner",
+              "curie": "sqa:owner",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_owner"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/programmeID",
+              "curie": "sqa:programmeID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_identifier"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/ownerID",
+              "curie": "sqa:ownerID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_owner_identifier"
+              }
+            },
+            {
+              "uri": "http://purl.org/dc/elements/1.1/title",
+              "curie": "dc:title",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "title"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/level",
+              "curie": "sqa:level",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "level"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/credits",
+              "curie": "sqa:credits",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "credits"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/subject",
+              "curie": "sqa:subject",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "subject_1"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/altSubject",
+              "curie": "sqa:altSubject",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "subject_2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://127.0.0.1:3333/",
+      "prefixes": [
+        {
+          "name": "dbpr",
+          "uri": "http://dbpedia.org/resource/"
+        },
+        {
+          "name": "dc",
+          "uri": "http://purl.org/dc/elements/1.1/"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "sqa",
+          "uri": "http://data.sqa.org.uk/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "rdfTypes": [
+            {
+              "uri": "http://dbpedia.org/resource/Course",
+              "curie": "dbpr:Course"
+            }
+          ],
+          "links": [
+            {
+              "uri": "http://data.sqa.org.uk/id",
+              "curie": "sqa:id",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "course_id"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/college",
+              "curie": "sqa:college",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "crb"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/owner",
+              "curie": "sqa:owner",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_owner"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/programmeID",
+              "curie": "sqa:programmeID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_identifier"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/ownerID",
+              "curie": "sqa:ownerID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_owner_identifier"
+              }
+            },
+            {
+              "uri": "http://purl.org/dc/elements/1.1/title",
+              "curie": "dc:title",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "title"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/level",
+              "curie": "sqa:level",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "level"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/credits",
+              "curie": "sqa:credits",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "credits"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/subject",
+              "curie": "sqa:subject",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "subject_1"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/altSubject",
+              "curie": "sqa:altSubject",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "subject_2"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/target",
+              "curie": "sqa:target",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "target"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/approvalData",
+              "curie": "sqa:approvalData",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "valueType": "http://www.w3.org/2001/XMLSchema#date",
+                "columnName": "approval_date"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/reviewDate",
+              "curie": "sqa:reviewDate",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "valueType": "http://www.w3.org/2001/XMLSchema#date",
+                "columnName": "review_date"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://127.0.0.1:3333/",
+      "prefixes": [
+        {
+          "name": "dbpr",
+          "uri": "http://dbpedia.org/resource/"
+        },
+        {
+          "name": "dc",
+          "uri": "http://purl.org/dc/elements/1.1/"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "sqa",
+          "uri": "http://data.sqa.org.uk/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "rdfTypes": [
+            {
+              "uri": "http://dbpedia.org/resource/Course",
+              "curie": "dbpr:Course"
+            }
+          ],
+          "links": [
+            {
+              "uri": "http://data.sqa.org.uk/id",
+              "curie": "sqa:id",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "course_id"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/college",
+              "curie": "sqa:college",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "crb"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/owner",
+              "curie": "sqa:owner",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_owner"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/programmeID",
+              "curie": "sqa:programmeID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_identifier"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/ownerID",
+              "curie": "sqa:ownerID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_owner_identifier"
+              }
+            },
+            {
+              "uri": "http://purl.org/dc/elements/1.1/title",
+              "curie": "dc:title",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "title"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/level",
+              "curie": "sqa:level",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "level"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/credits",
+              "curie": "sqa:credits",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "credits"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/subject",
+              "curie": "sqa:subject",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "subject_1"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/altSubject",
+              "curie": "sqa:altSubject",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "subject_2"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/target",
+              "curie": "sqa:target",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "target"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/approvalData",
+              "curie": "sqa:approvalData",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "valueType": "http://www.w3.org/2001/XMLSchema#date",
+                "columnName": "approval_date"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/reviewDate",
+              "curie": "sqa:reviewDate",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "valueType": "http://www.w3.org/2001/XMLSchema#date",
+                "columnName": "review_date"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://127.0.0.1:3333/",
+      "prefixes": [
+        {
+          "name": "dbpr",
+          "uri": "http://dbpedia.org/resource/"
+        },
+        {
+          "name": "dc",
+          "uri": "http://purl.org/dc/elements/1.1/"
+        },
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "sqa",
+          "uri": "http://data.sqa.org.uk/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "rdfTypes": [
+            {
+              "uri": "http://dbpedia.org/resource/Course",
+              "curie": "dbpr:Course"
+            }
+          ],
+          "links": [
+            {
+              "uri": "http://data.sqa.org.uk/id",
+              "curie": "sqa:id",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "course_id"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/college",
+              "curie": "sqa:college",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "crb"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/owner",
+              "curie": "sqa:owner",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_owner"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/programmeID",
+              "curie": "sqa:programmeID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_identifier"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/ownerID",
+              "curie": "sqa:ownerID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "programme_owner_identifier"
+              }
+            },
+            {
+              "uri": "http://purl.org/dc/elements/1.1/title",
+              "curie": "dc:title",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "title"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/level",
+              "curie": "sqa:level",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "level"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/credits",
+              "curie": "sqa:credits",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "credits"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/subject",
+              "curie": "sqa:subject",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "subject_1"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/altSubject",
+              "curie": "sqa:altSubject",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "subject_2"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/target",
+              "curie": "sqa:target",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "target"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/approvalData",
+              "curie": "sqa:approvalData",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "valueType": "http://www.w3.org/2001/XMLSchema#date",
+                "columnName": "approval_date"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/reviewDate",
+              "curie": "sqa:reviewDate",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "valueType": "http://www.w3.org/2001/XMLSchema#date",
+                "columnName": "review_date"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column approval_date using expression value.toDate()",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "0",
+          "name": "archived",
+          "caseSensitive": false,
+          "columnName": "archived",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "approval_date",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column review_date using expression value.toDate()",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "0",
+          "name": "archived",
+          "caseSensitive": false,
+          "columnName": "archived",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "review_date",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]

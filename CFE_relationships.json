@@ -1,0 +1,90 @@
+[
+  {
+    "op": "rdf-extension/save-rdf-schema",
+    "description": "Save RDF schema skeleton",
+    "schema": {
+      "baseUri": "http://localhost:3333/",
+      "prefixes": [
+        {
+          "name": "rdfs",
+          "uri": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        {
+          "name": "foaf",
+          "uri": "http://xmlns.com/foaf/0.1/"
+        },
+        {
+          "name": "owl",
+          "uri": "http://www.w3.org/2002/07/owl#"
+        },
+        {
+          "name": "xsd",
+          "uri": "http://www.w3.org/2001/XMLSchema#"
+        },
+        {
+          "name": "rdf",
+          "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        {
+          "name": "sqa",
+          "uri": "http://data.sqa.org.uk/"
+        }
+      ],
+      "rootNodes": [
+        {
+          "nodeType": "cell-as-resource",
+          "expression": "value",
+          "isRowNumberCell": true,
+          "rdfTypes": [
+            {
+              "uri": "http://data.sqa.org.uk/cnLink",
+              "curie": "sqa:cnLink"
+            }
+          ],
+          "links": [
+            {
+              "uri": "http://data.sqa.org.uk/parentID",
+              "curie": "sqa:parentID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "parent_id"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/parentName",
+              "curie": "sqa:parentName",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "parent_name"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/childID",
+              "curie": "sqa:childID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "child_id"
+              }
+            },
+            {
+              "uri": "http://data.sqa.org.uk/childID",
+              "curie": "sqa:childID",
+              "target": {
+                "nodeType": "cell-as-literal",
+                "expression": "value",
+                "isRowNumberCell": false,
+                "columnName": "child_name"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
