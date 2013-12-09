@@ -16,7 +16,7 @@
    xmlns:ff="http://api.friendfeed.com/2008/03" xmlns:foaf="http://xmlns.com/foaf/0.1/"
    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
    xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
-   xmlns:sqa="http://data.sqa.org.uk/">
+   xmlns:asn="http://purl.org/ASN/scheme/">
    <channel rdf:about="http://demo.mahara.org/user/ryanjam">
       <link/>
       <title>Mahara Leap2A Export for Ryan Jam, 2013/04/14 02:23</title>
@@ -171,8 +171,8 @@
       <title>High School</title>
       <dc:description/>
       <description>English National 4</description>
-      <sqa:level>4</sqa:level>
-      <sqa:nsubject>English</sqa:nsubject>
+      <asn:level>Four</asn:level>
+      <asn:conceptTerm rdf:resource="http://purl.org/ASN/scheme/CfEExperience/Languages/LiteracyEnglish"/>
       <dc:source rdf:resource="portfolio:resumecomposite-225-child-3"/>
       <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:achievement"/>
    </item>
@@ -201,8 +201,8 @@
       <title>High School</title>
       <dc:description/>
       <description>Hospitality National 5</description>
-      <sqa:level>5</sqa:level>
-      <sqa:nsubject>Hospitality</sqa:nsubject>
+      <asn:level>Five</asn:level>
+      <asn:nsubject>Hospitality</asn:nsubject>
       <dc:source rdf:resource="portfolio:resumecomposite-225-child-5"/>
       <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:achievement"/>
    </item>
@@ -231,8 +231,8 @@
       <title>High School</title>
       <dc:description/>
       <description>Maths National 4</description>
-      <sqa:level>4</sqa:level>
-      <sqa:nsubject>Mathematics</sqa:nsubject>
+      <asn:level>Four</asn:level>
+      <asn:nsubject>Mathematics</asn:nsubject>
       <dc:source rdf:resource="portfolio:resumecomposite-225-child-4"/>
       <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:achievement"/>
    </item>
@@ -261,8 +261,8 @@
       <title>High School</title>
       <dc:description/>
       <description>Physical Education National 5</description>
-      <sqa:level>5</sqa:level>
-      <sqa:nsubject>Physical education</sqa:nsubject>
+      <asn:level>Five</asn:level>
+      <asn:conceptTerm rdf:resource="http://purl.org/ASN/scheme/CfEExperience/HealthandWellbeing/Physicalactivityandsport"/>
       <dc:source rdf:resource="portfolio:resumecomposite-225-child-6"/>
       <type xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="leap2:achievement"/>
    </item>

@@ -49,37 +49,6 @@ FILTER (?clevel > ?level)
 
 Path to goal
 
-PREFIX :<http://purl.org/rss/1.0/>
-PREFIX vi:<http://www.openlinksw.com/weblog/>
-PREFIX gd:<http://schemas.google.com/g/2005>
-PREFIX gb:<http://www.openlinksw.com/schemas/google-base#>
-PREFIX sioc:<http://rdfs.org/sioc/ns#>
-PREFIX ff:<http://api.friendfeed.com/2008/03>
-PREFIX leap2:<http://terms.leapspecs.org#>
-PREFIX rss:<http://purl.org/rss/1.0/>
-PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX enc:<http://purl.oclc.org/net/rss_2.0/enc#>
-PREFIX dc:<http://purl.org/dc/elements/1.1/>
-PREFIX itunes:<http://www.itunes.com/DTDs/Podcast-1.0.dtd>
-PREFIX g:<http://base.google.com/ns/1.0>
-PREFIX d:<http://schemas.microsoft.com/ado/2007/08/dataservices>
-PREFIX slash:<http://purl.org/rss/1.0/modules/slash/>
-PREFIX foaf:<http://xmlns.com/foaf/0.1/>
-PREFIX a:<http://www.w3.org/2005/Atom>
-PREFIX georss:<http://www.georss.org/georss>
-PREFIX m:<http://schemas.microsoft.com/ado/2007/08/dataservices/metadata>
-PREFIX content:<http://purl.org/rss/1.0/modules/content/>
-PREFIX r:<http://backend.userland.com/rss2>
-PREFIX wfw:<http://wellformedweb.org/CommentAPI/>
-PREFIX gml:<http://www.opengis.net/gml>
-PREFIX skos:<http://www.w3.org/2004/02/skos/core#>
-PREFIX media:<http://search.yahoo.com/mrss/>
-PREFIX sqa:<http://data.sqa.org.uk/>
-PREFIX gphoto:<http://schemas.google.com/photos/2007>
-PREFIX dbpr:<http://dbpedia.org/resource/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
-PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
-PREFIX owl:<http://www.w3.org/2002/07/owl#>
 SELECT DISTINCT ?stepCourseTitle ?stepLevel ?goal
 WHERE 
 { 
@@ -114,37 +83,6 @@ ORDER BY ?clevel
 
 Next Step based on portfolio
 
-PREFIX :<http://purl.org/rss/1.0/>
-PREFIX vi:<http://www.openlinksw.com/weblog/>
-PREFIX gd:<http://schemas.google.com/g/2005>
-PREFIX gb:<http://www.openlinksw.com/schemas/google-base#>
-PREFIX sioc:<http://rdfs.org/sioc/ns#>
-PREFIX ff:<http://api.friendfeed.com/2008/03>
-PREFIX leap2:<http://terms.leapspecs.org#>
-PREFIX rss:<http://purl.org/rss/1.0/>
-PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX enc:<http://purl.oclc.org/net/rss_2.0/enc#>
-PREFIX dc:<http://purl.org/dc/elements/1.1/>
-PREFIX itunes:<http://www.itunes.com/DTDs/Podcast-1.0.dtd>
-PREFIX g:<http://base.google.com/ns/1.0>
-PREFIX d:<http://schemas.microsoft.com/ado/2007/08/dataservices>
-PREFIX slash:<http://purl.org/rss/1.0/modules/slash/>
-PREFIX foaf:<http://xmlns.com/foaf/0.1/>
-PREFIX a:<http://www.w3.org/2005/Atom>
-PREFIX georss:<http://www.georss.org/georss>
-PREFIX m:<http://schemas.microsoft.com/ado/2007/08/dataservices/metadata>
-PREFIX content:<http://purl.org/rss/1.0/modules/content/>
-PREFIX r:<http://backend.userland.com/rss2>
-PREFIX wfw:<http://wellformedweb.org/CommentAPI/>
-PREFIX gml:<http://www.opengis.net/gml>
-PREFIX skos:<http://www.w3.org/2004/02/skos/core#>
-PREFIX media:<http://search.yahoo.com/mrss/>
-PREFIX sqa:<http://data.sqa.org.uk/>
-PREFIX gphoto:<http://schemas.google.com/photos/2007>
-PREFIX dbpr:<http://dbpedia.org/resource/>
-PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
-PREFIX xsd:<http://www.w3.org/2001/XMLSchema#>
-PREFIX owl:<http://www.w3.org/2002/07/owl#>
 SELECT DISTINCT ?courseTitle ?college ?courseLevel
 WHERE 
 { 
